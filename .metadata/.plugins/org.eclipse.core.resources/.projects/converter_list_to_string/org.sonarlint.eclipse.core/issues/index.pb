@@ -21,3 +21,5 @@ Bsrc/main/java/com/te/converter_list_to_string/entity/Customer.java,9\a\9a14f80
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ƒ
 Ssrc/main/java/com/te/converter_list_to_string/service/impl/CustomerServiceImpl.java,8\7\870010801624eeaeb36618ddaa49c7c860b3ed3f
+r
+Bsrc/main/java/com/te/converter_list_to_string/dto/CustomerDto.java,a\7\a754b319f1396e258bc69b3e5803d99195eba4e8

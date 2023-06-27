@@ -1,13 +1,13 @@
 
-Š
-java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿°åÄşÿÿÿÿH¸RMINORZ
+s
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µã‡ıÿÿÿÿHŠRMINORZ
 CODE_SMELL
 p
-java:S1128"?Remove this unused import 'javax.validation.constraints.Email'.(¸àô¹üÿÿÿÿHºRMINORZ
+java:S1128"?Remove this unused import 'javax.validation.constraints.Email'.(¸àô¹üÿÿÿÿHŒRMINORZ
 CODE_SMELL
-s
-java:S1128"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µã‡ıÿÿÿÿH¼RMINORZ
+Š
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿°åÄşÿÿÿÿHRMINORZ
 CODE_SMELL
 \
-java:S1128"+Remove this unused import 'lombok.NonNull'.(¦¸©—ıÿÿÿÿH¾RMINORZ
+java:S1128"+Remove this unused import 'lombok.NonNull'.(¦¸©—ıÿÿÿÿHRMINORZ
 CODE_SMELL

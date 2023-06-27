@@ -1,10 +1,10 @@
 
 ‘
-java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(âá–Ðýÿÿÿÿ8¨œóßû0HÏRMINORZ
-CODE_SMELL
-p
-java:S1128"8Remove this unused import 'javax.persistence.Converter'.(þ‡ª”ùÿÿÿÿ8Îáƒáû0HÑRMINORZ
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(âá–Ðýÿÿÿÿ8¨œóßû0H”RMINORZ
 CODE_SMELL
 Œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û’·•8¨œóßû0HÓRMINORZ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û’·•8¨œóßû0H–RMINORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'javax.persistence.Converter'.(þ‡ª”ùÿÿÿÿ8Îáƒáû0H˜RMINORZ
 CODE_SMELL

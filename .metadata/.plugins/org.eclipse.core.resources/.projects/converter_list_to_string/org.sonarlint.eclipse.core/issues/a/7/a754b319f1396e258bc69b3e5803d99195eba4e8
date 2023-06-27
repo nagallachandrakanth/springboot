@@ -1,0 +1,19 @@
+
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û’·•HÛRMINORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âá–ÐýÿÿÿÿHÝRMINORZ
+CODE_SMELL
+f
+java:S1128"5Remove this unused import 'javax.persistence.Entity'.(úƒßýûÿÿÿÿHßRMINORZ
+CODE_SMELL
+i
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚HáRMINORZ
+CODE_SMELL
+i
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ý÷õ¡HãRMINORZ
+CODE_SMELL
+]
+java:S1128	"1Remove this unused import 'javax.persistence.Id'.(þ¹ÞÜHåRMINORZ
+CODE_SMELL
