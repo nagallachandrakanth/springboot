@@ -1,0 +1,9 @@
+
+}	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.( º ¯úÿÿÿÿ8çèòóù0H‘RMAJORZ
+CODE_SMELL
+b
+java:S5411"*Use the primitive boolean expression here.(ãçÎŽýÿÿÿÿ8ð°Ñõù0H’RMINORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8öòæõù0H•RMINORZ
+CODE_SMELL

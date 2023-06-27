@@ -1,0 +1,13 @@
+
+‘
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ώ°εΔώÿÿÿÿ8―µβω0HΥRMINORZ
+CODE_SMELL
+w
+java:S1128"?Remove this unused import 'javax.validation.constraints.Email'.(ΈΰτΉόÿÿÿÿ8υνϋ™ω0HΧRMINORZ
+CODE_SMELL
+z
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µγ‡ύÿÿÿÿ8υνϋ™ω0HΩRMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'lombok.NonNull'.(¦Έ©—ύÿÿÿÿ8υνϋ™ω0HΫRMINORZ
+CODE_SMELL

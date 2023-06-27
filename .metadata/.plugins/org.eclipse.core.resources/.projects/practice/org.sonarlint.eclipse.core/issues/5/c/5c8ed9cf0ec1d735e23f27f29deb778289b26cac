@@ -1,0 +1,9 @@
+
+z
+java:S2259"IA "NullPointerException" could be thrown; "contentType" is nullable here.(…ÂëŽøÿÿÿÿ8ŽÀ§šû0HÌRMAJORZBUG
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÕ­Öúÿÿÿÿ8õð„›û0HçRMINORZ
+CODE_SMELL
+y
+java:S1126"AReplace this if-then-else statement by a single return statement.(…ÂëŽøÿÿÿÿ8ŽÀ§šû0HÐRMINORZ
+CODE_SMELL

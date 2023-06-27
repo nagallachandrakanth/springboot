@@ -1,0 +1,9 @@
+
+b
+java:S5411%"*Use the primitive boolean expression here.(õˆÉ¦üÿÿÿÿ8ó©Óû0H·RMINORZ
+CODE_SMELL
+h
+java:S3655$"7Call "Optional#isPresent()" before accessing the value.(¶Îã¬ùÿÿÿÿ8ó©Óû0HºRMAJORZBUG
+‘
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¼‡çşÿÿÿÿ8ªµ´àû0H»RMINORZ
+CODE_SMELL

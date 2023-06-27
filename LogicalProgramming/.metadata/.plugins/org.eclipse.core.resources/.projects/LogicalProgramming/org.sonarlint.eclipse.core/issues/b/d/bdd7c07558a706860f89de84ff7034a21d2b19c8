@@ -1,0 +1,22 @@
+
+o	java:S106 "9Replace this use of System.out or System.err by a logger.(¢¬íüüÿÿÿÿ8±ƒ¢Ð‹1HvRMAJORZ
+CODE_SMELL
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÈ¡Œ8€ºÙÏ‹1HwRMINORZ
+CODE_SMELL
+d
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8€ºÙÏ‹1HyRMINORZ
+CODE_SMELL
+r	java:S125"<This block of commented-out lines of code should be removed.(žþó•úÿÿÿÿ8íÛÏ‹1H{RMAJORZ
+CODE_SMELL
+e
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8€ºÙÏ‹1H~RMINORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æˆ¹Ëøÿÿÿÿ8€ºÙÏ‹1H€RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(”¢Úß8¸Å‘Ï‹1H‚RMAJORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8€ºÙÏ‹1HƒRMINORZ
+CODE_SMELL

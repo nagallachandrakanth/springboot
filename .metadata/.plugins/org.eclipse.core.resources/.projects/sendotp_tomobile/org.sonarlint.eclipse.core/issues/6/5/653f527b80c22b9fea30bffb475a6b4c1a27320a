@@ -1,0 +1,7 @@
+
+m
+java:S1854";Remove this useless assignment to local variable "message".(ë­Ê(8›ýà›ú0H©RMAJORZ
+CODE_SMELL
+^
+java:S1481",Remove this unused "message" local variable.(ë­Ê(8›ýà›ú0HªRMINORZ
+CODE_SMELL

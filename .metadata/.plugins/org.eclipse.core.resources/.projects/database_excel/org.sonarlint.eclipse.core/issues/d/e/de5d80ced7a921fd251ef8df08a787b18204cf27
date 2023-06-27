@@ -1,0 +1,15 @@
+
+o
+java:S3655 "CCall "customerRegistration.isPresent()" before accessing the value.(θ™σ8τ΄λΙω0HΦRMAJORZBUG
+‰
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶κψÿÿÿÿ8Ήιόπω0HΧRMINORZ
+CODE_SMELL
+]
+java:S5411 "*Use the primitive boolean expression here.(θ™σ8τ΄λΙω0HΩRMINORZ
+CODE_SMELL
+~
+java:S1128	"FRemove this unused import 'org.springframework.stereotype.Controller'.(ψ—Φωÿÿÿÿ8™Δεπω0HάRMINORZ
+CODE_SMELL
+}
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(ήχΡΈÿÿÿÿÿ8Ήιόπω0HήRMINORZ
+CODE_SMELL

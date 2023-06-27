@@ -1,0 +1,12 @@
+
+_
+java:S14811",Remove this unused "message" local variable.(¥®Ùî8Ž‰’•û0H RMINORZ
+CODE_SMELL
+x
+java:S2095["JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…8§ýî–û0H¢RBLOCKERZBUG
+n
+java:S18541";Remove this useless assignment to local variable "message".(¥®Ùî8Ž‰’•û0H£RMAJORZ
+CODE_SMELL
+½
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬•‰âüÿÿÿÿ8Ö†¿›û0H¤RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+z
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µã‡ıÿÿÿÿ8½…·™ù0HéRMINORZ
+CODE_SMELL
+‘
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëì‚‘üÿÿÿÿ8±â“™ù0HëRMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'lombok.NonNull'.(¦¸©—ıÿÿÿÿ8½…·™ù0HíRMINORZ
+CODE_SMELL

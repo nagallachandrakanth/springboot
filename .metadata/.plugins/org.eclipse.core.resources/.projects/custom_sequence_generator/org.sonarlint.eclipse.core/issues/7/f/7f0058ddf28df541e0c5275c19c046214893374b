@@ -1,0 +1,8 @@
+
+j
+java:S1128"7Remove this unused import 'javax.persistence.PostLoad'.(ÇÎë€8ı¤íù0HÔRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(·Ó•şÿÿÿÿ8‹Ê’íù0HÖRMAJORZ
+CODE_SMELL
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÀÔ°¦üÿÿÿÿ8Ø¢‘Áù0H×RCRITICALZVULNERABILITY
